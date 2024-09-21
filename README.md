@@ -122,23 +122,23 @@ The `category-posts.php` file allows users to view all posts within a specific c
 
 |  #  | WebPage           | Live Demo                                                                                 |
 | :-: | ----------------- | ----------------------------------------------------------------------------------------- |
-| 01  | Index             | [Live Demo](https://medinabytes.lovestoblog.com/index.php)                              |
-| 02  | Blog              | [Live Demo](https://medinabytes.lovestoblog.com/blog.php)                               |
-| 03  | Category Post     | [Live Demo](https://medinabytes.lovestoblog.com/category-posts.php)                     |
-| 04  | About             | [Live Demo](https://medinabytes.lovestoblog.com/about.php)                              |
-| 05  | Services          | [Live Demo](https://medinabytes.lovestoblog.com/services.php)                           |
-| 06  | Contact           | [Live Demo](https://medinabytes.lovestoblog.com/contact.php)                            |
-| 07  | Sign In           | [Live Demo](https://medinabytes.lovestoblog.com/signin.php)                             |
-| 08  | Sign Up           | [Live Demo](https://medinabytes.lovestoblog.com/signup.php)                             |
-| 09  | Dashboard         | [Live Demo](https://medinabytes.lovestoblog.com/dashboard.php)                          |
-| 10  | Edit Posts        | [Live Demo](https://medinabytes.lovestoblog.com/edit-post.php)                          |
-| 11  | Add Post          | [Live Demo](https://medinabytes.lovestoblog.com/add-post.php)                           |
-| 12  | Add User          | [Live Demo](https://medinabytes.lovestoblog.com/add-user.php)                           |
-| 13  | Manage Users      | [Live Demo](https://medinabytes.lovestoblog.com/manage-users.php)                       |
-| 14  | Edit User         | [Live Demo](https://medinabytes.lovestoblog.com/edit-user.php)                          |
-| 15  | Add Category      | [Live Demo](https://medinabytes.lovestoblog.com/add-category.php)                       |
-| 16  | Manage Categories | [Live Demo](https://medinabytes.lovestoblog.com/manage-categories.php)                  |
-| 17  | Edit Category     | [Live Demo](https://medinabytes.lovestoblog.com/edit-category.php)                      |
+| 01  | Index             | [Live Demo](http://medinabytes.lovestoblog.com/index.php)                              |
+| 02  | Blog              | [Live Demo](http://medinabytes.lovestoblog.com/blog.php)                               |
+| 03  | Category Post     | [Live Demo](http://medinabytes.lovestoblog.com/category-posts.php)                     |
+| 04  | About             | [Live Demo](http://medinabytes.lovestoblog.com/about.php)                              |
+| 05  | Services          | [Live Demo](http://medinabytes.lovestoblog.com/services.php)                           |
+| 06  | Contact           | [Live Demo](http://medinabytes.lovestoblog.com/contact.php)                            |
+| 07  | Sign In           | [Live Demo](http://medinabytes.lovestoblog.com/signin.php)                             |
+| 08  | Sign Up           | [Live Demo](http://medinabytes.lovestoblog.com/signup.php)                             |
+| 09  | Dashboard         | [Live Demo](http://medinabytes.lovestoblog.com/dashboard.php)                          |
+| 10  | Edit Posts        | [Live Demo](http://medinabytes.lovestoblog.com/edit-post.php)                          |
+| 11  | Add Post          | [Live Demo](http://medinabytes.lovestoblog.com/add-post.php)                           |
+| 12  | Add User          | [Live Demo](http://medinabytes.lovestoblog.com/add-user.php)                           |
+| 13  | Manage Users      | [Live Demo](http://medinabytes.lovestoblog.com/manage-users.php)                       |
+| 14  | Edit User         | [Live Demo](http://medinabytes.lovestoblog.com/edit-user.php)                          |
+| 15  | Add Category      | [Live Demo](http://medinabytes.lovestoblog.com/add-category.php)                       |
+| 16  | Manage Categories | [Live Demo](http://medinabytes.lovestoblog.com/manage-categories.php)                  |
+| 17  | Edit Category     | [Live Demo](http://medinabytes.lovestoblog.com/edit-category.php)                      |
 
 ## Demo User Credentials
 
